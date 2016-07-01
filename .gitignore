@@ -1,0 +1,5 @@
+config.yml
+*.bak
+*.swp
+*.tmp
+logs/*
