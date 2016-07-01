@@ -1,0 +1,30 @@
+tv_show_dir: '/data/plex/shows'
+
+twitter:
+  consumer_key: 
+  consumer_secret: 
+  access_token: 
+  access_secret: 
+  # your Twitter user ID
+  my_id: 
+  # automatically populated as script runs, leave at 0 to parse your whole DM history
+  last_seen: 0 
+  command_start_character: '~'
+
+couchpotato:
+  host: localhost
+  port: 5050
+  apikey:
+  ssl: false
+
+sonarr:
+  host: localhost
+  port: 8989
+  apikey: 
+  ssl: false
+
+sab:
+  host: localhost
+  port: 8080
+  apikey: 
+  ssl: false
